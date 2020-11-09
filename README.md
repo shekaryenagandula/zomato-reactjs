@@ -1,14 +1,13 @@
+# ZOMATO CLONE 
+
+ZOMATO clone built using HTML5,CSS3,REACTJS (No CSS Framework used)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Runs the app
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-# ZOMATO CLONE 
-
-ZOMATO clone built using HTML5,CSS3,REACTJS (No CSS Framework used)
-
 
 
 ## Installation
