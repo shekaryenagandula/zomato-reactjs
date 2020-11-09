@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zomato-reactjs/static/css/main.bdf734b8.chunk.css",
-    "main.js": "/zomato-reactjs/static/js/main.9dce2c54.chunk.js",
-    "main.js.map": "/zomato-reactjs/static/js/main.9dce2c54.chunk.js.map",
+    "main.js": "/zomato-reactjs/static/js/main.0da7dfe9.chunk.js",
+    "main.js.map": "/zomato-reactjs/static/js/main.0da7dfe9.chunk.js.map",
     "runtime-main.js": "/zomato-reactjs/static/js/runtime-main.01514604.js",
     "runtime-main.js.map": "/zomato-reactjs/static/js/runtime-main.01514604.js.map",
     "static/js/2.a4faa56e.chunk.js": "/zomato-reactjs/static/js/2.a4faa56e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.01514604.js",
     "static/js/2.a4faa56e.chunk.js",
     "static/css/main.bdf734b8.chunk.css",
-    "static/js/main.9dce2c54.chunk.js"
+    "static/js/main.0da7dfe9.chunk.js"
   ]
 }
